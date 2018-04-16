@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/hammer-parent" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/saas-manage" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/saas-user" vcs="Git" />
+  </component>
+</project>
